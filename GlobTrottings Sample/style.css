@@ -1,0 +1,111 @@
+
+
+.destination-name
+{
+	font-size: 30px;
+	 color: #0898ff;
+    font-weight: bold;
+}
+
+
+.destination-desc
+{
+	width: 36%;
+	 color: #003580;
+    font-size: small;
+    line-height: 1.2;
+    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+
+.destination-img
+{
+	float: left;
+    margin: 0 0 10px 10px;
+}
+
+.info-padding
+{
+	margin-left: 3%;
+}
+
+.package
+{
+	color: #8e8c8c;
+}
+
+.groove-border
+{
+	border-style: groove;
+
+}
+
+.heading
+{
+	font-size: 40px;
+	color:#0903b1;
+	font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+
+}
+
+.regular-text
+{
+	font-family: Arial;
+	  font-size: 10pt;
+	  color: #000000;
+
+}
+
+.button
+{
+	display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    padding: 5px 10px;
+    margin: 0;
+    background-color: #383;
+    border: 2px solid #fff;
+    border-radius: 3px;
+    line-height: 1.5;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+    cursor: pointer;
+    -webkit-box-shadow: 0 0 3px #aaa;
+    box-shadow: 0 0 3px #aaa;
+    font-family: Arial;
+      margin-left: 50pt;
+}
+
+a.button:hover{
+     background: #0898ff;
+}
+
+a.destination-name
+{
+	 text-decoration: none;
+}
+
+.ask-button-text
+{
+	text-transform: none;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+.cost{
+	 color: #047d15;
+	 font-weight: bold;
+
+}
+
+.item
+{
+	    display: block;
+    clear: both;
+    width: 100%;
+    border-top: 1px dashed #0898ff;
+    padding: 8px 0;
+    min-height: 149px;
+    cursor: default;
+}
